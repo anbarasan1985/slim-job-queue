@@ -1,4 +1,4 @@
-//
+
 
 CREATE TABLE `job_queue` (
  `job_id` int(11) NOT NULL AUTO_INCREMENT COMMENT 'Job ID',
