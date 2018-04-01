@@ -27,11 +27,16 @@ Run this command in the application directory to run the test suite
 That's it!.
 
 ## API END Points
-   `http://localhost:8888/slim-server-api/public/api/v1/jobs
+    http://localhost:8888/slim-server-api/public/api/v1/jobs
+   
     http://localhost:8888/slim-server-api/public/api/v1/job/{id}
+    
     http://localhost:8888/slim-server-api/public/api/v1/get_job
+    
     http://localhost:8888/slim-server-api/public/api/v1/job/create
+    
     http://localhost:8888/slim-server-api/public/api/v1/job/update/{id}
-    http://localhost:8888/slim-server-api/public/api/v1/job/delete`
+    
+    http://localhost:8888/slim-server-api/public/api/v1/job/delete
     
    
